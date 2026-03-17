@@ -5,6 +5,7 @@ description = "Hehs"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "asv>=0.6.5",
     "torch>=2.10.0",
     "virtualenv>=21.2.0",
 ]
