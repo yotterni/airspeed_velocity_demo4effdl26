@@ -28,7 +28,7 @@ cd airspeed_velocity_demo4effdl26
 uv sync
 ```
 
-The rest is inside the `asvelocity_demo.ipynb`. Have a 
+The rest is inside the `asvelocity_demo.ipynb`. Have a good ~5 minutes running it!
 
 
 ## References
