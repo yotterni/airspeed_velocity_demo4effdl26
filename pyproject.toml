@@ -1,0 +1,13 @@
+[project]
+name = "mypackage"
+version = "0.1.0"
+description = "Hehs"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "torch>=2.10.0",
+    "virtualenv>=21.2.0",
+]
+
+[tool.setuptools.packages.find]
+include = ["mypackage*"]
